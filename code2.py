@@ -1,1 +1,2 @@
-print("Hello Git, esto es un mensaje")
+def git():
+    print("Hello Git");
